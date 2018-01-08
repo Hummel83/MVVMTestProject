@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Collections.ObjectModel;
+﻿using System.Collections.ObjectModel;
 using System.Linq;
-using System.Text;
 using System.Windows.Input;
 using MVVMTestProject.Commands;
 using MVVMTestProject.Repositories;
@@ -19,9 +16,6 @@ namespace MVVMTestProject.ViewModel
 		private EmployeeViewModel selectedEmployee;
 
 		#endregion
-
-
-
 		#region Properties
 
 		public ObservableCollection<EmployeeViewModel> Employees
