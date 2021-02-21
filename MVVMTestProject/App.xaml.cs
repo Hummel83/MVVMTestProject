@@ -1,11 +1,9 @@
-﻿using System.Windows;
-
-namespace MVVMTestProject
+﻿namespace MVVMTestProject
 {
-	/// <summary>
-	/// Interaction logic for App.xaml
-	/// </summary>
-	public partial class App : Application
-	{
-	}
+    /// <summary>
+    /// Interaction logic for App.xaml
+    /// </summary>
+    public partial class App
+    {
+    }
 }
